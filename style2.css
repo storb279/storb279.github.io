@@ -1,0 +1,36 @@
+body {
+    background: white;
+}
+
+.display {
+    display: block;
+    font-size: 46px;
+    margin-left:0;
+    margin-top: 15%;
+    text-align: center;
+    color: pink; 
+    
+}
+
+a:link{
+    display: block;
+    font-size: 46px;
+    text-align: center;
+    font-weight: italic bold;
+    color: pink; 
+}
+
+a:visited{
+    display: block;
+    font-size: 46px;
+    text-align: center;
+    font-weight: italic bold;
+    color: pink;
+}
+
+a:hover{
+    display:block;
+    font-size: 50px;
+    font-weight: bold;
+    color: lavenderblush;
+}

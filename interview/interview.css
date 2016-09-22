@@ -1,0 +1,42 @@
+p {
+    color: black;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-family: helvetica arial sans-serif;
+    text-align: center;
+} 
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+    font-family: helvetica arial sans-serif;
+}
+
+img { 
+    border: thistle solid 2px;
+}
+
+a:link { 
+    color: thistle;
+    font-size: 30px;
+    font-style: normal;
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightgrey;
+    font-size: 30;
+    font-style: italic;
+    text-decoration: none;
+} 
+
+a:visited {
+    color: thistle;
+    font-size: 30;
+    font-style: normal; 
+    text-decoration: none;
+}

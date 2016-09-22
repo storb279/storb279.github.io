@@ -1,0 +1,21 @@
+p {
+    color: orange;
+    font-size: 100px;
+    font-weight: lighter;
+    font-style: italic;
+    font-family: helvetica arial sans-serif;
+    background-color: white;
+    width: 200px;
+    margin: 6px;
+    padding: 50px;
+}
+
+.special { 
+    color: black;
+    font-size:14px;
+    font-weight: normal;
+    font-style: normal;
+    font-family:helvetica arial sans-serif;
+    
+} 
+
