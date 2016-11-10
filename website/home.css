@@ -1,0 +1,74 @@
+
+body { 
+    background-color: white;
+} 
+
+.title {
+    float: center;
+    color: black;
+    margin-top: 18%;
+    margin-left:0%;
+    margin-right:0%;
+    width: 100%;
+    height: 10%;
+    font-size: 40px;
+    font-style: none;
+    font-family: Impact;
+    text-align: center;
+    border: 0px solid gold;
+}
+
+.title:hover {
+    color: black;
+    font-style: none;
+}
+
+.artist {
+    float: left;
+    margin-top: 0%;
+    margin-left: 10%;
+    margin-right: 50%;
+    width: 35%;
+    height: 80%;
+    position: absolute; 
+    text-align: right;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.model { 
+    float: right;
+    margin-top: 0%;
+    margin-left: 50%;
+    margin-right: 10%;
+    font-size: 12px;
+    position: absolute; 
+    width: 35%;
+    height: 50%;
+    text-align: left;
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:link {
+    display: block;
+    color:black
+    font-style:none;
+    text-decoration: none;
+    font-family: impact;
+    font-size: 40px;
+}
+
+a:visited {
+    color:black;
+    font-style:none;
+    text-decoration: none;
+}
+
+a:hover {
+    color: pink;
+    font-style: italic;
+    text-decoration: none;
+}
+
+

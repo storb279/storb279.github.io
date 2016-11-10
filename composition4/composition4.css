@@ -1,0 +1,121 @@
+body {
+    background-color: white;
+}
+
+p {
+    color: white;
+}
+
+.content {
+    height: 100%;
+    width: 100%;
+    cursor: url('http://www.rw-designer.com/cursor-view/17136.gif') crosshair;
+}
+
+.plant1 {
+    position:absolute;
+    display:block;
+    margin-top:2%;
+    margin-left:85%;
+    width:40%;
+    height:40%;
+}
+
+.plant1:hover{
+    margin-top:5px;
+}
+
+.plant2 {
+    position:absolute;
+    margin-top:5%;
+    margin-left: 62%;
+    width:40%;
+    height:40%;
+}
+
+.plant2:hover{
+    margin-top:50px;
+}
+
+.plant3 {
+    position:absolute;
+    margin-left: 0%;
+    width:40%;
+    height:40%;
+}
+
+.plant3:hover{
+    margin-top:5px;
+}
+
+.plant4 {
+    position:absolute;
+    margin-top:15%;
+    margin-left: 5%;
+    width:40%;
+    height:40%;
+}
+
+.plant4:hover {
+    margin-top: 150px;
+}
+
+.plant5 {
+    position:absolute;
+    margin-top:10%;
+    margin-left: 18%;
+    width:40%;
+    height:40%;
+}
+
+.plant5:hover {
+    margin-top: 100px;
+}
+
+.plant6 {
+    position:absolute;
+    margin-top:12%;
+    margin-left:46%;
+    width:40%;
+    height:40%;
+}
+
+.plant6:hover {
+    margin-top:125px;
+}
+
+.plant7 {
+    position:absolute;
+    margin-top:18%;
+    margin-left: 75%;
+    width:40%;
+    height:40%;
+}
+
+.plant7:hover {
+    margin-top: 200px;
+}
+
+.plant8 {
+    position:absolute;
+    margin-top:10%;
+    margin-left: 100%;
+    width:40%;
+    height:40%;
+}
+
+.plant8:hover {
+    margin-top: 100px;
+}
+
+.plant9 {
+    position:absolute;
+    width:40%;
+    height:40%;
+    margin-top:25%;
+    margin-left:32%;
+}
+
+.plant9:hover {
+    margin-top:250px;
+}

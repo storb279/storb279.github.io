@@ -1,0 +1,97 @@
+p {
+    color: lightblue;
+}
+
+body {
+    width:2000px;
+    display:block;
+    background-color:lightblue;
+    overflow-y:scroll;
+    background-image: url(http://oi66.tinypic.com/xeeb7t.jpg); 
+}
+
+.bee1 {
+    position:fixed;
+    margin-top: 20%;
+    margin-left:50%;
+}
+
+.bee2 {
+    position:fixed;
+    margin-bottom: 20%;
+    margin-left:15%;
+}
+
+.bee3 {
+    position:absolute;
+    margin-top:40%;
+    margin-left:20%;
+    
+}
+
+.bee4 { 
+    position:absolute;
+    margin-top:15%;
+    margin-left:50%;
+}
+
+.bee5 { 
+    position:absolute;
+    margin-top:25%;
+    margin-left:90%;
+}
+
+.bee6 { 
+    position:absolute;
+    margin-top:50%;
+    margin-left:60%;
+}
+
+.bee7 { 
+    position:absolute;
+    margin-top:15%;
+    margin-left:95%;
+}
+
+.bee8 { 
+    position:absolute;
+    margin-top:20%;
+    margin-left:60%;
+}
+
+.bee9 {
+    display:block;
+    position:absolute;
+}
+
+.banner {
+    display:block;
+    position:absolute;
+    font-family:impact;
+    color:transparent;
+    width:900px;
+    font-size:15px;
+    margin-left:10px;
+    margin-top:30%;
+}
+
+.banner:hover {
+    position:absolute;
+    font-family:impact;
+    color:white;
+    font-size:50px;
+    margin-left:25%;
+    margin-top:20%;
+    margin-left:350px;
+    margin-top:30%;
+}
+
+.bee4:hover {
+    margin-left:30%;
+    width: 40%;
+}
+
+.bee3:hover {
+    margin-top: 15%;
+    width:35%
+}

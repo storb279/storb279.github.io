@@ -1,0 +1,73 @@
+body {
+    background-color:white;
+}
+
+.title {
+    float: center;
+    color: pink;
+    padding-top:5%;
+    margin-left:10%;
+    width:80%;
+    height:10%;
+    font-size:75px;
+    font-style:regular;
+    font-family:lobster;
+    text-align:center;
+}
+
+.menu { 
+    float:left;
+    margin-top:-2%;
+    margin-left:5%;
+    font-size:12px;
+    width:135px;
+    height:200px;
+    position:absolute;
+    text-align:center;
+    padding:25px;
+} 
+
+h1 {
+    font-size:16px;
+}
+
+p {
+    color:black;
+    font-size: 12px;
+    font-family:arial;
+}
+
+.content {
+    float:right;
+    font-size: 12px;
+    position:fixed;
+    left:25%;
+    width:50%;
+    height:90%;
+    text-align:justify;
+}
+
+.link{
+    background-color:pink;
+    border-radius:60px;
+}
+
+a:link {
+    font-size:15px;
+    display:block;
+    color:white;
+    font-family:arial narrow;
+    font-weight:bold;
+    text-decoration:none;
+    padding:10px;
+    border:0px solid black;
+}
+
+a:visited {
+    text-decoration:none;
+}
+
+a:hover {
+    font-style:italic;
+    text-decoration:none;
+}
