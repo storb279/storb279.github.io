@@ -1,0 +1,178 @@
+            /*orange*/
+.orange {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    color: white;
+    border-radius: 100%;
+    position: fixed;
+    top: 10%;
+    left: 45%;
+    cursor: pointer;
+}
+.orangebackground {
+    background-color: orange;
+}
+.orangeeng {
+    display: inline-block;
+    color:white;
+    font-family:lobster;
+    font-size: 60px;
+    margin-top: 75px;
+    margin-left: 335px;
+}
+.orangegai {
+    display: inline-block;
+    color:white;
+    font-family:lobster;
+    font-size: 60px;
+    margin-top: -75px;
+    margin-left: 150px;
+}
+
+            /*yellow*/
+.yellow { 
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    color: white;
+    font-size: 40px;
+    line-height: 100px;
+    border-radius: 100%;
+    position: fixed;
+    top: 27%;
+    left: 45%;
+    cursor: pointer;
+}
+.yellowbackground {
+    background-color: yellow;
+}
+.yelloweng {
+    display: block;
+    color:white;
+    font-family:lobster;
+    font-size: 60px;
+    margin-top: 35px;
+    margin-left: 350px;
+}
+.yellowgai {
+    color:white;
+    font-family:lobster;
+    font-size: 60px;
+    margin-top: -75px;
+    margin-left: 675px;
+}
+            /*green*/
+.green {
+    width: 100px;
+    height: 100px;
+    background-color: palegreen;
+    color: white;
+    font-size: 40px;
+    line-height: 100px;
+    border-radius: 100%;
+    position: fixed;
+    top: 44%;
+    left: 45%;
+    cursor: pointer;
+}
+.greenbackground {
+    background-color: palegreen;
+}
+.greeneng {
+    color:white;
+    font-family:lobster;
+    font-size: 60px;
+    margin-top:50px;
+    margin-left:375px;
+}
+.greengai {
+    color:white;
+    font-family:lobster;
+    font-size: 60px;
+    margin-top: -75px;
+    margin-left: 675px;
+}
+            /*blue*/
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: powderblue;
+    color: white;
+    font-size: 40px;
+    line-height: 100px;
+    border-radius: 100%;
+    position: fixed;
+    top: 61%;
+    left: 45%;
+    cursor: pointer;
+}
+.bluebackground {
+    background-color: powderblue;
+}
+.blueeng {
+    color:white;
+    font-family:lobster;
+    font-size: 60px;
+    margin-top:30px;
+    margin-left:400px;
+}
+.bluegai {
+    color:white;
+    font-family:lobster;
+    font-size: 60px;
+    margin-left:675px;
+    margin-top:-75px;
+}
+            /*pink*/
+.pink {
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    color: white;
+    font-size: 40px;
+    line-height: 100px;
+    border-radius: 100%;
+    position: fixed;
+    top: 78%;
+    left: 45%;
+    cursor: pointer;
+}
+.pinkbackground {
+    background-color: pink;
+}
+.pinkeng {
+    color:white;
+    display: inline-block;
+    font-family:lobster;
+    font-size: 60px;
+    margin-top: 50px;
+    margin-left:400px;
+}
+.pinkgai {
+    color:white;
+    font-family:lobster;
+    font-size: 60px;
+    margin-top:-80px;
+    margin-left:675px;
+}
+
+/*translations*/
+.orangetranslation{
+    color: white;
+}
+.yellowtranslation{
+    color:white;
+}
+.greentranslation{
+    color:white;
+}
+.bluetranslation{
+    color:white;
+}
+.pinktranslation{
+
+/*other*/
+li{
+    list-style: none;
+}

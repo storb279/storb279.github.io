@@ -8,7 +8,7 @@ $("button").click(function() {
     console.log(hasClicked);
     $("body").css("background-color","red");
     hasClicked = true;
-});
+}); 
 
 for (var i = 0; i < 100; i++) {
     $("body").append("<div class='go'></div>");

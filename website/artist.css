@@ -4,23 +4,20 @@ body {
 } 
 
 .title {
-    float: center;
     color: black;
     margin-top: 0%;
     margin-left:0%;
     margin-right:0%;
     width: 100%;
+    line-height: 100px;
     height: 10%;
-    font-size: 35px;
-    font-style: none;
-    font-family: arial;
+    font-size: 60px;
+    font-family: lobster;
     text-align: center;
-    border: 0px solid gold;
 }
 
 .title:hover {
     color: black;
-    font-style: none;
 }
 
 .menu{
@@ -29,7 +26,7 @@ body {
     margin-left: 5%;
     width: 15%;
     height: 80%;
-    position: absolute; 
+    position: fixed; 
     text-align: right;
     text-decoration: none;
     padding: 10px;
@@ -47,7 +44,7 @@ body {
     text-align: left;
     text-decoration: none;
     padding: 5px;
-    overflow: scroll;
+    
 }
 
 img {

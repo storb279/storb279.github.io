@@ -1,0 +1,101 @@
+/*global $*/
+$(".orange").click(function(){
+    $("body").toggleClass("orangebackground");
+    /*backgrounds*/
+    $("body").toggleClass("yellowbackground",false);
+    $("body").toggleClass("greenbackground",false);
+    $("body").toggleClass("bluebackground",false);
+    $("body").toggleClass("pinkbackground",false);
+    /*translations*/
+    $(".orangeeng").css("color","white");
+    $(".orangegai").css("color","white");
+    $(".yelloweng").css("color","orange");
+    $(".yellowgai").css("color","orange");
+    $(".greeneng").css("color","orange");
+    $(".greengai").css("color","orange");
+    $(".blueeng").css("color","orange");
+    $(".bluegai").css("color","orange");
+    $(".pinkeng").css("color","orange");
+    $(".pinkgai").css("color","orange");
+});
+
+$(".yellow").click(function(){
+    $("body").toggleClass("yellowbackground");
+        /*backgrounds*/
+    $("body").toggleClass("orangebackground",false);
+    $("body").toggleClass("greenbackground",false);
+    $("body").toggleClass("bluebackground",false);
+    $("body").toggleClass("pinkbackground",false);
+        /*translations*/
+    $(".orangeeng").css("color","yellow");
+    $(".orangegai").css("color","yellow");
+    $(".yelloweng").css("color","white");
+    $(".yellowgai").css("color","white");
+    $(".greeneng").css("color","yellow");
+    $(".greengai").css("color","yellow");
+    $(".blueeng").css("color","yellow");
+    $(".bluegai").css("color","yellow");
+    $(".pinkeng").css("color","yellow");
+    $(".pinkgai").css("color","yellow");
+});
+
+$(".green").click(function(){
+    $("body").toggleClass("greenbackground");
+        /*backgrounds*/
+    $("body").toggleClass("orangebackground",false);
+    $("body").toggleClass("yellowbackground",false);
+    $("body").toggleClass("bluebackground",false);
+    $("body").toggleClass("pinkbackground",false);
+        /*translations*/
+    $(".orangeeng").css("color","palegreen");
+    $(".orangegai").css("color","palegreen");
+    $(".yelloweng").css("color","palegreen");
+    $(".yellowgai").css("color","palegreen");
+    $(".greeneng").css("color","white");
+    $(".greengai").css("color","white");
+    $(".blueeng").css("color","palegreen");
+    $(".bluegai").css("color","palegreen");
+    $(".pinkeng").css("color","palegreen");
+    $(".pinkgai").css("color","palegreen");
+});
+
+$(".blue").click(function(){
+    $("body").toggleClass("bluebackground");
+        /*backgrounds*/
+    $("body").toggleClass("orangebackground",false);
+    $("body").toggleClass("yellowbackground",false);
+    $("body").toggleClass("greenbackground",false);
+    $("body").toggleClass("pinkbackground",false);
+        /*translations*/
+    $(".orangeeng").css("color","powderblue");
+    $(".orangegai").css("color","powderblue");
+    $(".yelloweng").css("color","powderblue");
+    $(".yellowgai").css("color","powderblue");
+    $(".greeneng").css("color","powderblue");
+    $(".greengai").css("color","powderblue");
+    $(".blueeng").css("color","white");
+    $(".bluegai").css("color","white");
+    $(".pinkeng").css("color","powderblue");
+    $(".pinkgai").css("color","powderblue");
+});
+
+$(".pink").click(function(){
+    $("body").toggleClass("pinkbackground");
+        /*backgrounds*/
+    $("body").toggleClass("orangebackground",false);
+    $("body").toggleClass("yellowbackground",false);
+    $("body").toggleClass("greenbackground",false);
+    $("body").toggleClass("bluebackground",false);
+        /*translations*/
+    $(".orangeeng").css("color","pink");
+    $(".orangegai").css("color","pink");
+    $(".yelloweng").css("color","pink");
+    $(".yellowgai").css("color","pink");
+    $(".greeneng").css("color","pink");
+    $(".greengai").css("color","pink");
+    $(".blueeng").css("color","pink");
+    $(".bluegai").css("color","pink");
+    $(".pinkeng").css("color","white");
+    $(".pinkgai").css("color","white");
+});
+

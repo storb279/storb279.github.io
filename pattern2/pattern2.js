@@ -1,0 +1,148 @@
+/*global $*/
+
+var count = 0;
+
+$(".sqr1").click(function(){
+    $(".sqr3").toggleClass("pink"); 
+}); 
+$(".sqr3").click(function(){
+    $(".sqr22").toggleClass("pink"); 
+    $(".sqr3").fadeOut("slow");
+}); 
+$(".sqr22").click(function(){
+    $(".sqr14").toggleClass("pink"); 
+    $(".sqr22").fadeOut("slow");
+}); 
+$(".sqr14").click(function(){
+    $(".sqr10").toggleClass("pink"); 
+    $(".sqr14").fadeOut("slow");
+});
+$(".sqr10").click(function(){
+    $(".sqr5").toggleClass("pink");
+    $(".sqr10").fadeOut("slow");
+}); 
+$(".sqr5").click(function(){
+    $(".sqr19").toggleClass("pink"); 
+    $(".sqr5").fadeOut("slow");
+}); 
+$(".sqr19").click(function(){
+    $(".sqr7").toggleClass("pink");
+    $(".sqr19").fadeOut("slow");
+}); 
+$(".sqr7").click(function(){
+    $(".sqr12").toggleClass("pink");
+    $(".sqr7").fadeOut("slow");
+}); 
+$(".sqr12").click(function(){
+    $(".sqr26").toggleClass("pink");
+    $(".sqr12").fadeOut("slow");
+}); 
+$(".sqr26").click(function(){
+    $(".sqr23").toggleClass("pink");
+    $(".sqr26").fadeOut("slow");
+}); 
+$(".sqr23").click(function(){
+    $(".sqr6").toggleClass("pink");
+    $(".sqr23").fadeOut("slow");
+}); 
+$(".sqr6").click(function(){
+    $(".sqr18").toggleClass("pink");
+    $(".sqr6").fadeOut("slow");
+}); 
+$(".sqr18").click(function(){
+    $(".sqr25").toggleClass("pink");
+    $(".sqr18").fadeOut("slow");
+}); 
+$(".sqr25").click(function(){
+    $(".sqr16").toggleClass("pink");
+    $(".sqr25").fadeOut("slow");
+}); 
+$(".sqr16").click(function(){
+    $(".sqr20").toggleClass("pink");
+    $(".sqr16").fadeOut("slow");
+}); 
+$(".sqr20").click(function(){
+    $(".sqr8").toggleClass("pink");
+    $(".sqr20").fadeOut("slow");
+}); 
+$(".sqr8").click(function(){
+    $(".sqr11").toggleClass("pink");
+    $(".sqr8").fadeOut("slow");
+}); 
+$(".sqr11").click(function(){
+    $(".sqr15").toggleClass("pink");
+    $(".sqr11").fadeOut("slow");
+}); 
+$(".sqr15").click(function(){
+    $(".sqr17").toggleClass("pink");
+    $(".sqr15").fadeOut("slow");
+}); 
+$(".sqr17").click(function(){
+    $(".sqr21").toggleClass("pink");
+    $(".sqr17").fadeOut("slow");
+}); 
+$(".sqr21").click(function(){
+    $(".sqr4").toggleClass("pink");
+    $(".sqr21").fadeOut("slow");
+}); 
+$(".sqr4").click(function(){
+    $(".sqr27").toggleClass("pink");
+    $(".sqr4").fadeOut("slow");
+}); 
+$(".sqr27").click(function(){
+    $(".sqr24").toggleClass("pink");
+    $(".sqr27").fadeOut("slow");
+}); 
+$(".sqr24").click(function(){
+    $(".sqr13").toggleClass("pink");
+    $(".sqr24").fadeOut("slow");
+}); 
+$(".sqr13").click(function(){
+    $(".sqr28").toggleClass("pink");
+    $(".sqr13").fadeOut("slow");
+});  
+$(".sqr28").click(function(){
+    $(".sqr2").toggleClass("pink");
+    $(".sqr28").fadeOut("slow");
+})
+$(".sqr2").click(function(){
+    $(".sqr9").toggleClass("pink");
+    $(".sqr2").fadeOut("slow");
+})
+$(".sqr9").click(function(){
+    $(".sqr1").toggleClass("pink");
+    $(".sqr9").fadeOut("slow");
+})
+$(".sqr1").dblclick(function(){
+    $(".sqr1").toggleClass("pink");
+    $(".sqr2").toggleClass("pink");
+    $(".sqr3").toggleClass("pink");
+    $(".sqr4").toggleClass("pink");
+    $(".sqr5").toggleClass("pink");
+    $(".sqr6").toggleClass("pink");
+    $(".sqr7").toggleClass("pink");
+    $(".sqr8").toggleClass("pink");
+    $(".sqr9").toggleClass("pink");
+    $(".sqr10").toggleClass("pink");
+    $(".sqr11").toggleClass("pink");
+    $(".sqr12").toggleClass("pink");
+    $(".sqr13").toggleClass("pink");
+    $(".sqr14").toggleClass("pink");
+    $(".sqr15").toggleClass("pink");
+    $(".sqr16").toggleClass("pink");
+    $(".sqr17").toggleClass("pink");
+    $(".sqr18").toggleClass("pink");
+    $(".sqr19").toggleClass("pink");
+    $(".sqr20").toggleClass("pink");
+    $(".sqr21").toggleClass("pink");
+    $(".sqr22").toggleClass("pink");
+    $(".sqr23").toggleClass("pink");
+    $(".sqr24").toggleClass("pink");
+    $(".sqr25").toggleClass("pink");
+    $(".sqr26").toggleClass("pink");
+    $(".sqr27").toggleClass("pink");
+    $(".sqr28").toggleClass("pink");
+    $(".sqr1").fadeOut("slow");
+    $("body").css("background-color","pink");
+    $("kill").fadeIn("slow");
+})

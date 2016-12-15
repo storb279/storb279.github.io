@@ -1,0 +1,297 @@
+p {
+    display: inline-block
+}
+/*sqrs*/
+.sqr1 {
+    margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+    color:orange;
+} 
+
+.sqr2 {
+    margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+    color:orange;
+} 
+
+.sqr3 {
+    margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+    color:orange;
+} 
+
+.sqr4 {
+    margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+    color:orange;
+} 
+
+.sqr5 {
+    margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+    color:orange;
+} 
+
+.sqr6 {
+    margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+    color:orange;
+} 
+
+.sqr7 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+    color:orange;
+}
+
+.sqr8 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+    color:orange;
+}
+
+.sqr9 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+    color:orange;
+}
+
+.sqr10 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+    color:orange;
+}
+
+.sqr11 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+    color:orange;
+}
+
+.sqr12 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+    color:orange;
+}
+
+.sqr13 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+    color:orange;
+}
+
+.sqr14 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+    color:orange;
+}
+
+.sqr15 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+    color:orange;
+}
+
+.sqr16 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+    color:orange;
+}
+
+.sqr17 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+.sqr18 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+.sqr19 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+.sqr20 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+.sqr21 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+.sqr22 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+.sqr23 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+.sqr24 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+.sqr25 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+.sqr26 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+.sqr27 {
+        margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+.sqr28 {
+    margin: 12px;
+    background-color: orange;
+    height: 140px;
+    width: 140px;
+    border-radius: 5%;
+    cursor: pointer;
+}
+/*/sqrs*/
+
+.pink{
+    background-color:pink;
+    color:white;
+    font-family: arial;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 12px;
+
+}
+
+li {
+    display: inline-block;
+    list-style: none;
+}
+
+.kill {
+    color:black;
+    position:fixed;
+    display:inline-block;
+    font-family:impact;
+    font-size:100px;
+    margin-left:-200px;
+    margin-top:10px;
+}
